@@ -13,7 +13,7 @@ const RETRAITE_CONFIG = {
         "2023": { PASS: 43992.0, prix_point: 18.7669 },
         "2024": { PASS: 46368.0, prix_point: 19.6321 },
         "2025": { PASS: 47100.0, prix_point: 20.1877 },
-        "2026": { PASS: 48060.0, prix_point: 20.1877 },
+        //"2026": { PASS: 48060.0, prix_point: 20.1877 },
         //"2027": { PASS: 480000.0, prix_point: 20.1877 }, 
     }
 };
